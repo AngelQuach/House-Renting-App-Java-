@@ -1,4 +1,4 @@
-# House-Renting-App-Ongoing-
+# House-Renting-App-
 
 - This program simulate a House Renting App. 
 - There are three identities that users can choose from House owner, customer, and administrator. 
