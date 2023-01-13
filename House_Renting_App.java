@@ -166,7 +166,7 @@ class Customer extends User{
 }
 
 //main class
-public class FinalProject extends JFrame implements ActionListener{
+public class House_Renting_App extends JFrame implements ActionListener{
 	//number of customer logged in
 	int indicator = 0;
 	JTextField fTitle, status;
